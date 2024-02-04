@@ -1,0 +1,12 @@
+.card-game {
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+  background-color: var(--color-card);
+  height: 160px;
+  width: 130px;
+  border-radius: 10px;
+  border: var(--color-border) 4px solid;
+  justify-content: center;
+  align-items: center;
+}
